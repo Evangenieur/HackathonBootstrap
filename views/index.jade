@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  h1 #{service_name} Bootstrap
+  .container(ng-controller="TestApp")
+    textarea(ng-model="data",cols=40,rows=10)
+    #show {{data}}

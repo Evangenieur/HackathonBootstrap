@@ -1,0 +1,19 @@
+{
+  "name": "HackathonBootstrap",
+  "version": "0.0.1",
+  "description": "CoffeeScript / ZappaJS / AngularJS",
+  "main": "server.coffee",
+  "repository": "",
+  "author": "Evangenieur",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "~0.6.2",
+    "optimist": "~0.6.0",
+    "zappajs": "~0.4.22",
+    "watchr": "~2.4.4",
+    "coffee-script": "~1.6.3",
+    "underscore": "~1.5.2",
+    "q": "~0.9.7",
+    "q-io": "~1.10.2",
+  }
+}
