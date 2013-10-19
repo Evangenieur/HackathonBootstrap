@@ -5,6 +5,9 @@
   "main": "server.coffee",
   "repository": "",
   "author": "Evangenieur",
+  "contributors": [
+    { "name": "Jay Salvat" }
+  ],
   "license": "MIT",
   "dependencies": {
     "colors": "~0.6.2",
@@ -14,6 +17,6 @@
     "coffee-script": "~1.6.3",
     "underscore": "~1.5.2",
     "q": "~0.9.7",
-    "q-io": "~1.10.2",
+    "q-io": "~1.10.2"
   }
 }
